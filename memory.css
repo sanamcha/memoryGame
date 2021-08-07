@@ -1,0 +1,13 @@
+#game div {
+  border: 2px solid black;
+  height: 180px;
+  width: 15%;
+  margin: 10px ;
+  display: inline-block;
+  position: center;
+}
+
+body{
+  background-color: rgb(176, 180, 189);
+  
+}
